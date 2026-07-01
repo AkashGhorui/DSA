@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkashGhorui/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/AkashGhorui/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [3843-first-element-with-unique-frequency](https://github.com/AkashGhorui/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkashGhorui/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/AkashGhorui/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
